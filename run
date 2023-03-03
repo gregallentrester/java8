@@ -1,0 +1,3 @@
+#!/bin/bash -p
+
+java -jar ./target/Pilot.jar
